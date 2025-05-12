@@ -1,1 +1,1 @@
-# education
+# store education docs
